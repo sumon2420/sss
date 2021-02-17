@@ -1,0 +1,27 @@
+h1{ font-family:Broadway;
+    size:100;
+	color:red;
+	text-align: center;
+	}
+	p{font-family:Copperplate Gothic Light;
+	Size: 120;
+	color: yellow;
+	}	
+
+button{ size:100;
+color:red;
+text-align: right;
+}
+
+
+
+button {
+  background-color:black;
+  border:
+  color:red;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
